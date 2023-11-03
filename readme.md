@@ -4,6 +4,7 @@
 ## Create OpenSSL certificates for the elb hostnames
 
 > the sh file creates certs for `us-east-2` region, please change accordingly
+
 _Note: If you are in the same region, you can reuse the certs in the `newcerts` folder. No need to regenerate with the sh file._
 
 ```bash
